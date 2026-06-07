@@ -1,0 +1,5 @@
+# robots.txt — заменить example.ru на реальный домен
+User-agent: *
+Allow: /
+
+Sitemap: https://example.ru/sitemap.xml
